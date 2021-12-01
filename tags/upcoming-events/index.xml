@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Upcoming Events - Tag - Michele Pasqua&#39;s Web Site</title>
+        <link>https://michelepasqua.github.io/tags/upcoming-events/</link>
+        <description>Upcoming Events - Tag - Michele Pasqua&#39;s Web Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>michele.pasqua@univr.it (Michele Pasqua)</managingEditor>
+            <webMaster>michele.pasqua@univr.it (Michele Pasqua)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://michelepasqua.github.io/tags/upcoming-events/" rel="self" type="application/rss+xml" /><item>
+    <title>Upcoming Events</title>
+    <link>https://michelepasqua.github.io/home/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://michelepasqua.github.io/home/</guid>
+    <description><![CDATA[SEFM 2021 Speaker 19th International Conference on Software Engineering and Formal Methods
+ CyberChallenge.IT 2022 Local Organizer and Instructor 5th Edition of the Italian Training Program in Cybersecurity
+ SCAM 2022 Local Chair and Proceedings Chair 21st IEEE International Working Conference on Source Code Analysis and Manipulation]]></description>
+</item></channel>
+</rss>

@@ -1,0 +1,22 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>MsC - Etichetta - Michele Pasqua&#39;s Web Site</title>
+        <link>https://michelepasqua.github.io/it/tags/msc/</link>
+        <description>MsC - Etichetta - Michele Pasqua&#39;s Web Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>it</language><managingEditor>michele.pasqua@univr.it (Michele Pasqua)</managingEditor>
+            <webMaster>michele.pasqua@univr.it (Michele Pasqua)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://michelepasqua.github.io/it/tags/msc/" rel="self" type="application/rss+xml" /><item>
+    <title>Istruzione</title>
+    <link>https://michelepasqua.github.io/it/education/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Autore</author>
+    <guid>https://michelepasqua.github.io/it/education/</guid>
+    <description><![CDATA[Dottorato di Ricerca in Informatica  2015 - 2018 (titolo conseguito il 30 Mag 2019)
+ Università di Verona, Italia
+Con borsa
+ Laurea Magistrale in Ingegneria e Scienze Informatiche  2013 - 2015 (titolo conseguito il 21 Ott 2015)
+ Università di Verona, Italia
+Curriculum: Ingegneria del Software e Sicurezza
+ Laurea Triennale in Informatica  2009 - 2013 (titolo conseguito il 16 Ott 2013)
+ Università di Verona, Italia]]></description>
+</item></channel>
+</rss>

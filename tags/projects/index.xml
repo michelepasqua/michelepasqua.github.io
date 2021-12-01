@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Projects - Tag - Michele Pasqua&#39;s Web Site</title>
+        <link>https://michelepasqua.github.io/tags/projects/</link>
+        <description>Projects - Tag - Michele Pasqua&#39;s Web Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>michele.pasqua@univr.it (Michele Pasqua)</managingEditor>
+            <webMaster>michele.pasqua@univr.it (Michele Pasqua)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://michelepasqua.github.io/tags/projects/" rel="self" type="application/rss+xml" /><item>
+    <title>Research</title>
+    <link>https://michelepasqua.github.io/research/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://michelepasqua.github.io/research/</guid>
+    <description><![CDATA[Interests My main research interests are in the field of formal methods for security and programming languages; with particular attention to program verification and semantics, code protection, malware detection, compilation, distributed systems and functional testing.
+
+Current Projects  (last update: November 16, 2021)   Build Trust proof of Concept  Funded by the University of Verona and Build Trust Srl (Joint Project 2021) Coordinator: Prof. Franco Fummi
+  Research assistant]]></description>
+</item></channel>
+</rss>

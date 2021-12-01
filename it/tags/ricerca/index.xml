@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Ricerca - Etichetta - Michele Pasqua&#39;s Web Site</title>
+        <link>https://michelepasqua.github.io/it/tags/ricerca/</link>
+        <description>Ricerca - Etichetta - Michele Pasqua&#39;s Web Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>it</language><managingEditor>michele.pasqua@univr.it (Michele Pasqua)</managingEditor>
+            <webMaster>michele.pasqua@univr.it (Michele Pasqua)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://michelepasqua.github.io/it/tags/ricerca/" rel="self" type="application/rss+xml" /><item>
+    <title>Ricerca</title>
+    <link>https://michelepasqua.github.io/it/research/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Autore</author>
+    <guid>https://michelepasqua.github.io/it/research/</guid>
+    <description><![CDATA[Interessi I miei interessi di ricerca si concentrano nei metodi formali per la sicurezza e i linguaggi di programmazione; con particolare attenzione alla verifica di programmi, alla protezione del codice, alla rilevazione di malware, alla compilazione, ai sistemi distribuiti ed al testing funzionale.
+
+Progetti in Corso  (aggiornato al: 16 Novembre 2021)   Prototipo Concettuale di Build Trust  Finanziato da Università di Verona e Build Trust Srl (Progetto congiunto 2021) Coordinatore: Prof.]]></description>
+</item></channel>
+</rss>

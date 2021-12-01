@@ -1,0 +1,22 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Positions - Tag - Michele Pasqua&#39;s Web Site</title>
+        <link>https://michelepasqua.github.io/tags/positions/</link>
+        <description>Positions - Tag - Michele Pasqua&#39;s Web Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>michele.pasqua@univr.it (Michele Pasqua)</managingEditor>
+            <webMaster>michele.pasqua@univr.it (Michele Pasqua)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://michelepasqua.github.io/tags/positions/" rel="self" type="application/rss+xml" /><item>
+    <title>Work Experience</title>
+    <link>https://michelepasqua.github.io/work-experience/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://michelepasqua.github.io/work-experience/</guid>
+    <description><![CDATA[Actual Position  Assistant Professor (non-tenured)  Jan 1, 2022 - Ongoing
+ University of Verona, Italy &ndash; Dept. of Computer Science
+ INF/01 (Computer Science)
+Past Positions  Postdoctoral Research Assistant  Oct 1, 2021 - Dec 31, 2021 (3 months)
+ University of Verona, Italy &ndash; Dept. of Computer Science
+Automatic black-box testing of RESTful API
+Supervisor Dr. Mariano Ceccato (University of Verona, Italy)
+ REST APIs · Back-box testing · Blockchain · Static analysis · Smart-contracts]]></description>
+</item></channel>
+</rss>
