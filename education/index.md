@@ -11,7 +11,7 @@ Scholarship holder
 
 ---
 
-### MsC in Computer Science and Engineering
+### MSc in Computer Science and Engineering
 
 <i class="fas fa-calendar-check"></i> 2013 - 2015 (graduated in Oct 21, 2015)
 
@@ -21,7 +21,7 @@ Curriculum: Software Engineering and Security
 
 ---
 
-### BsC in Computer Science
+### BSc in Computer Science
 
 <i class="fas fa-calendar-check"></i> 2009 - 2013 (graduated in Oct 16, 2013)
 
