@@ -56,6 +56,15 @@
                     hreflang="it"
                     href="https://michelepasqua.github.io/it/contact/"
                     /></url><url>
+            <loc>https://michelepasqua.github.io/it/teaching/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://michelepasqua.github.io/teaching/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="it"
+                    href="https://michelepasqua.github.io/it/teaching/"
+                    /></url><url>
             <loc>https://michelepasqua.github.io/it/tags/bsc/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -76,8 +85,11 @@
                     /></url><url>
             <loc>https://michelepasqua.github.io/it/tags/contatti/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://michelepasqua.github.io/it/categories/contatti/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://michelepasqua.github.io/it/tags/corsi/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://michelepasqua.github.io/it/categories/eventi/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://michelepasqua.github.io/it/tags/indirizzo/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://michelepasqua.github.io/it/tags/insegnamenti/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://michelepasqua.github.io/it/categories/insegnamenti/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://michelepasqua.github.io/it/tags/interessi/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://michelepasqua.github.io/it/tags/istruzione/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://michelepasqua.github.io/it/categories/istruzione/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
@@ -126,6 +138,7 @@
             <loc>https://michelepasqua.github.io/it/categories/pubblicazioni/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://michelepasqua.github.io/it/tags/ricerca/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://michelepasqua.github.io/it/categories/ricerca/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://michelepasqua.github.io/it/tags/studenti/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://michelepasqua.github.io/it/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"

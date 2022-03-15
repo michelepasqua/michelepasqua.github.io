@@ -1,0 +1,19 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Corsi - Etichetta - Michele Pasqua&#39;s Web Site</title>
+        <link>https://michelepasqua.github.io/it/tags/corsi/</link>
+        <description>Corsi - Etichetta - Michele Pasqua&#39;s Web Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>it</language><managingEditor>michele.pasqua@univr.it (Michele Pasqua)</managingEditor>
+            <webMaster>michele.pasqua@univr.it (Michele Pasqua)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://michelepasqua.github.io/it/tags/corsi/" rel="self" type="application/rss+xml" /><item>
+    <title>Insegnamenti</title>
+    <link>https://michelepasqua.github.io/it/teaching/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Autore</author>
+    <guid>https://michelepasqua.github.io/it/teaching/</guid>
+    <description><![CDATA[Corsi Università di Verona  Informatica e produzione multimediale :: 2021/2022  Laurea Magistrale in Editoria e Giornalismo Modulo teoria
+  Coordinatore del corso
+ 12 CFU &ndash; INF/01
+Altre attività  CyberChallenge.IT :: 2022  Programma italiano di addestramento in cybersecurity Team Verona
+  Insegnante (teoria) e Instruttore (laboratorio)]]></description>
+</item></channel>
+</rss>
