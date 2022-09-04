@@ -4,15 +4,25 @@
 <br>
 
 <center>
-    <a href="https://orcid.org/0000-0002-9475-4836" target="_blank" rel="noopener noreferrer"><img title="ORCID" width="30" height="30" src="imgs/orcid.png"></a> &nbsp; &nbsp; 
-    <a href="https://dblp.org/pid/197/7261.html" target="_blank" rel="noopener noreferrer"><img title="dblp" width="30" height="30" src="imgs/dblp.png"></a> &nbsp; &nbsp; 
-    <a href="https://scholar.google.com/citations?user=3Rdr8qkAAAAJ" target="_blank" rel="noopener noreferrer"><img title="Google Scholar" width="30" height="30" src="imgs/scholar.png"></a> &nbsp; &nbsp; 
+    <a href="https://orcid.org/0000-0002-9475-4836" target="_blank" rel="noopener noreferrer"><img title="ORCID" width="30" height="30" src="imgs/orcid.png"></a> &nbsp; &nbsp;
+    <a href="https://dblp.org/pid/197/7261.html" target="_blank" rel="noopener noreferrer"><img title="dblp" width="30" height="30" src="imgs/dblp.png"></a> &nbsp; &nbsp;
+    <a href="https://scholar.google.com/citations?user=3Rdr8qkAAAAJ" target="_blank" rel="noopener noreferrer"><img title="Google Scholar" width="30" height="30" src="imgs/scholar.png"></a> &nbsp; &nbsp;
     <a href="https://www.researchgate.net/profile/Michele-Pasqua-3" target="_blank" rel="noopener noreferrer"><img title="ResearchGate" width="30" height="30" src="imgs/researchgate.png"></a>
 </center>
 
 <br>
 
 ## Lavori Selezionati
+
+---
+
+> **Automated black‐box testing of nominal and error scenarios in RESTful APIs** <br> *Corradini, D., Zampieri A., Pasqua, M., Viglianisi E., Dallago M. and Ceccato, M.*
+
+<a href="pdfs/STVR22.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i></a> &nbsp; PDF file &nbsp; &nbsp; &nbsp; <a href="bibs/STVR22.bib"><i class="fas fa-quote-right"></i></a> &nbsp; $\TeX$ ref
+
+In: *Software Testing Verification and Reliability* (pp. 1--33), John Wiley &amp; Sons, 2022, DOI: [https://doi.org/10.1002/stvr.1808](https://doi.org/10.1002/stvr.1808)
+
+<i class="fas fa-tags"></i> &nbsp; `REST API` &middot; `Black-box testing` &middot; `Automated test case generation`
 
 ---
 

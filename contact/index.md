@@ -1,7 +1,24 @@
 # Contact
 
 
-## Work
+<br>
+
+## Temporary workplace
+
+Currently I am at **USI** in Lugano (CH) for a research visit
+
+> **Software Institute** <br> Universit&agrave; della Svizzera Italiana
+
+<i class="fas fa-location-arrow"></i> &nbsp; Via la Santa, 1 -- 6962 -- Lugano, Switzerland &nbsp; &nbsp; &nbsp;
+<i class="fas fa-map-marker-alt"></i> &nbsp; [46.0116221722027, 8.960739446028297](https://g.page/usisoftware?share)
+
+### Office
+
+<i class="fas fa-briefcase"></i> &nbsp; East Campus, Sector D, Office D3.03 (Level 3)
+
+<br>
+
+## Workplace
 
 > **Department of Computer Science** <br> University of Verona
 
@@ -25,5 +42,4 @@ Institutional web page:
 `https://www.di.univr.it/?ent=persona&id=32345&lang=en` <a href="https://www.di.univr.it/?ent=persona&id=32345&lang=en" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></a>
 
 <br><br>
-
 
