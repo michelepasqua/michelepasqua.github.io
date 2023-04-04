@@ -16,6 +16,36 @@
 
 ---
 
+> **Automated Black-box Testing of Mass Assignment Vulnerabilities in RESTful APIs** <br> *Corradini D., Pasqua M. and Ceccato M.*
+
+<a href="pdfs/ICSE23.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i></a> &nbsp; PDF file &nbsp; &nbsp; &nbsp; <a href="bibs/ICSE23.bib"><i class="fas fa-quote-right"></i></a> &nbsp; $\TeX$ ref
+
+In: *Proceedings of the 45<sup>th</sup> IEEE/ACM International Conference on Software Engineering* (pp. 1--12), IEEE, 2023 (*to appear*)
+
+<i class="fas fa-tags"></i> &nbsp; `REST API` &middot; `Security testing` &middot; `Mass assignment` &middot; `Automated software testing`
+
+---
+
+> **AbU: A Calculus for Distributed Event-driven Programming with Attribute-based Interaction** <br> *Pasqua M. and Miculan M.*
+
+<a href="pdfs/TCS23.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i></a> &nbsp; PDF file &nbsp; &nbsp; &nbsp; <a href="bibs/TCS23.bib"><i class="fas fa-quote-right"></i></a> &nbsp; $\TeX$ ref
+
+In: *Theoretical Computer Science* (pp. 1--40), Elsevier, 2023, DOI: [https://doi.org/10.1016/j.tcs.2023.113841](https://doi.org/10.1016/j.tcs.2023.113841)
+
+<i class="fas fa-tags"></i> &nbsp; `ECA rules` &middot; `Distributed systems` &middot; `Formal methods` &middot; `Edge computing` &middot; `IoT programming`
+
+---
+
+> **Enhancing Ethereum smart-contracts static analysis by computing a precise Control-Flow Graph of Ethereum bytecode** <br> *Pasqua M., Benini A., Contro F., Crosara M., Dalla Preda M. and Ceccato M.*
+
+<a href="pdfs/JSS23.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i></a> &nbsp; PDF file &nbsp; &nbsp; &nbsp; <a href="bibs/JSS23.bib"><i class="fas fa-quote-right"></i></a> &nbsp; $\TeX$ ref
+
+In: *Journal of Systems and Software* (pp. 1--18), Elsevier, 2023, DOI: [https://doi.org/10.1016/j.jss.2023.111653](https://doi.org/10.1016/j.jss.2023.111653)
+
+<i class="fas fa-tags"></i> &nbsp; `Smart-contracts` &middot; `Reverse engineering` &middot; `Static analysis` &middot; `Ethereum`
+
+---
+
 > **Automated black‐box testing of nominal and error scenarios in RESTful APIs** <br> *Corradini, D., Zampieri A., Pasqua, M., Viglianisi E., Dallago M. and Ceccato, M.*
 
 <a href="pdfs/STVR22.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i></a> &nbsp; PDF file &nbsp; &nbsp; &nbsp; <a href="bibs/STVR22.bib"><i class="fas fa-quote-right"></i></a> &nbsp; $\TeX$ ref

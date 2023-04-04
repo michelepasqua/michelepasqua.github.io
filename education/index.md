@@ -1,7 +1,7 @@
 # Education
 
 
-### PhD in Computer Science 
+### PhD in Computer Science
 
 <i class="fas fa-calendar-check"></i> 2015 - 2018 (graduated in May 30, 2019)
 
@@ -33,7 +33,7 @@ Curriculum: General Computer Science
 
 ## PhD Thesis
 
-> **Hyper Static Analysis of Programs** <br> An Abstract Interpretation-Based Framework for Hyperproperties Verification <br> *Pasqua, M.*
+> **Hyper Static Analysis of Programs** &nbsp; <a href="https://zenodo.org/record/6584085#.ZAoHx4DMJhE" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></a> <br> An Abstract Interpretation-Based Framework for Hyperproperties Verification <br> *Pasqua, M.* 
 
 <a href="PHDthesis19.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i></a> &nbsp; PDF file &nbsp; &nbsp; &nbsp; <a href="PHDthesis19.bib"><i class="fas fa-quote-right"></i></a> &nbsp; $\TeX$ ref
 
@@ -49,5 +49,4 @@ Prof. [Antoine Miné](https://www-apr.lip6.fr/~mine/) (Sorbonne Université, Fra
 Prof. [David A. Naumann](https://www.cs.stevens.edu/~naumann/) (Stevens Institute of Technology, United States)
 
 <br><br>
-
 

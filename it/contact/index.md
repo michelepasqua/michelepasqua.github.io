@@ -1,8 +1,9 @@
-# Contati
+# Contatti
 
 
 <br>
 
+<!--
 ## Luogo di lavoro temporaneo
 
 Attualmente mi trovo presso l'**USI** di Lugano (CH) per un periodo di ricerca
@@ -15,6 +16,7 @@ Attualmente mi trovo presso l'**USI** di Lugano (CH) per un periodo di ricerca
 ### Ufficio
 
 <i class="fas fa-briefcase"></i> &nbsp; Campus Est, Settore D, Ufficio D3.03 (Livello 3)
+-->
 
 <br>
 
@@ -27,7 +29,7 @@ Attualmente mi trovo presso l'**USI** di Lugano (CH) per un periodo di ricerca
 
 ### Ufficio
 
-<i class="fas fa-briefcase"></i> &nbsp; C&agrave; Vignal 2, Piano 1, Stanza 64A &nbsp; &nbsp; &nbsp; <i class="fas fa-phone"></i> &nbsp; (+39) 045 8027803
+<i class="fas fa-briefcase"></i> &nbsp; C&agrave; Vignal 2, Piano 2, Stanza 24 &nbsp; &nbsp; &nbsp; <i class="fas fa-phone"></i> &nbsp; (+39) 045 8027803
 
 ### Lab
 

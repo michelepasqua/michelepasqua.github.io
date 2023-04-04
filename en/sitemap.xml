@@ -47,6 +47,15 @@
                     hreflang="en"
                     href="https://michelepasqua.github.io/publications/"
                     /></url><url>
+            <loc>https://michelepasqua.github.io/teaching/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="it"
+                        href="https://michelepasqua.github.io/it/teaching/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://michelepasqua.github.io/teaching/"
+                    /></url><url>
             <loc>https://michelepasqua.github.io/contact/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="it"
@@ -56,14 +65,14 @@
                     hreflang="en"
                     href="https://michelepasqua.github.io/contact/"
                     /></url><url>
-            <loc>https://michelepasqua.github.io/teaching/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://michelepasqua.github.io/news/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="it"
-                        href="https://michelepasqua.github.io/it/teaching/"
+                        href="https://michelepasqua.github.io/it/news/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://michelepasqua.github.io/teaching/"
+                    href="https://michelepasqua.github.io/news/"
                     /></url><url>
             <loc>https://michelepasqua.github.io/tags/address/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://michelepasqua.github.io/tags/bsc/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
@@ -89,7 +98,7 @@
             <loc>https://michelepasqua.github.io/tags/courses/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://michelepasqua.github.io/tags/education/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://michelepasqua.github.io/categories/education/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://michelepasqua.github.io/categories/events/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://michelepasqua.github.io/tags/events/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://michelepasqua.github.io/tags/interests/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://michelepasqua.github.io/tags/mail/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
@@ -118,6 +127,24 @@
                     hreflang="en"
                     href="https://michelepasqua.github.io/tags/msc/"
                     /></url><url>
+            <loc>https://michelepasqua.github.io/tags/news/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="it"
+                        href="https://michelepasqua.github.io/it/tags/news/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://michelepasqua.github.io/tags/news/"
+                    /></url><url>
+            <loc>https://michelepasqua.github.io/categories/news/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="it"
+                        href="https://michelepasqua.github.io/it/categories/news/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://michelepasqua.github.io/categories/news/"
+                    /></url><url>
             <loc>https://michelepasqua.github.io/tags/phd-thesis/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="it"
@@ -145,6 +172,5 @@
                     /></url><url>
             <loc>https://michelepasqua.github.io/tags/teaching/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://michelepasqua.github.io/categories/teaching/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://michelepasqua.github.io/tags/upcoming-events/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://michelepasqua.github.io/tags/work/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://michelepasqua.github.io/categories/work/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

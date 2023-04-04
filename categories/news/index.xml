@@ -1,0 +1,29 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>News - Category - Michele Pasqua&#39;s Web Site</title>
+        <link>https://michelepasqua.github.io/categories/news/</link>
+        <description>News - Category - Michele Pasqua&#39;s Web Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>michele.pasqua@univr.it (Michele Pasqua)</managingEditor>
+            <webMaster>michele.pasqua@univr.it (Michele Pasqua)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://michelepasqua.github.io/categories/news/" rel="self" type="application/rss+xml" /><item>
+    <title>News</title>
+    <link>https://michelepasqua.github.io/home/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://michelepasqua.github.io/home/</guid>
+    <description><![CDATA[&nbsp; **Universit&agrave; della Svizzera Italiana (USI)** **Visiting Researcher** USI Software Institute --   ICSE 2024 Program Committee Member &ndash; Demonstrations Track 46th IEEE/ACM International Conference on Software Engineering
+ SCAM 2023 Program Co-Chair &ndash; New Ideas and Emerging Results Track 23rd IEEE International Working Conference on Source Code Analysis and Manipulation
+ CyberChallenge.IT 2023 Local Organizer and Instructor 6th Edition of the Italian Training Program in Cybersecurity
+ ECAI 2023 Program Committee Member 26th European Conference on Artificial Intelligence]]></description>
+</item><item>
+    <title>News and events</title>
+    <link>https://michelepasqua.github.io/news/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://michelepasqua.github.io/news/</guid>
+    <description><![CDATA[(last update: March 10, 2023)
+ News  ICSE 2024 Program Committee Member &ndash; Demonstrations Track 46th IEEE/ACM International Conference on Software Engineering
+ SCAM 2023 Program Co-Chair &ndash; New Ideas and Emerging Results Track 23rd IEEE International Working Conference on Source Code Analysis and Manipulation
+ CyberChallenge.IT 2023 Local Organizer and Instructor 6th Edition of the Italian Training Program in Cybersecurity
+ ECAI 2023 Program Committee Member 26th European Conference on Artificial Intelligence]]></description>
+</item></channel>
+</rss>

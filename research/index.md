@@ -9,7 +9,7 @@ My main research interests are in the field of **formal methods** for security a
 
 <br><br>
 
-## Current Projects
+## Projects
 
 <center> (last update: November 16, 2021) </center>
 
@@ -25,7 +25,7 @@ My main research interests are in the field of **formal methods** for security a
 
 > **IT MATTERS – Methods and Tools for Trustworthy Smart Systems** &nbsp; <a href="http://itmatters.imtlucca.it" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></a> <br> Funded by the Ministry of Education, University and Research - Italy (PRIN Project 2017) <br> *Coordinator*: Prof. Rocco De Nicola
 
-<i class="fas fa-pencil-ruler"></i> &nbsp; Research assistant
+<i class="fas fa-pencil-ruler"></i> &nbsp; External research assistant
 
 <i class="fas fa-tags"></i> &nbsp; `Autonomic computing` &middot; `Formal methods` &middot; `IoT systems` &middot; `Verification`
 

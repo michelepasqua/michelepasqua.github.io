@@ -3,6 +3,7 @@
 
 <br>
 
+<!--
 ## Temporary workplace
 
 Currently I am at **USI** in Lugano (CH) for a research visit
@@ -15,6 +16,7 @@ Currently I am at **USI** in Lugano (CH) for a research visit
 ### Office
 
 <i class="fas fa-briefcase"></i> &nbsp; East Campus, Sector D, Office D3.03 (Level 3)
+-->
 
 <br>
 
@@ -27,7 +29,7 @@ Currently I am at **USI** in Lugano (CH) for a research visit
 
 ### Office
 
-<i class="fas fa-briefcase"></i> &nbsp; C&agrave; Vignal 2, Floor 1, Room 64A &nbsp; &nbsp; &nbsp; <i class="fas fa-phone"></i> &nbsp; (+39) 045 8027803
+<i class="fas fa-briefcase"></i> &nbsp; C&agrave; Vignal 2, Floor 2, Room 24 &nbsp; &nbsp; &nbsp; <i class="fas fa-phone"></i> &nbsp; (+39) 045 8027803
 
 ### Lab
 
