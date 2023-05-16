@@ -16,6 +16,16 @@
 
 ---
 
+> **Enhancing REST API Testing with NLP Techniques** <br> *Kim M., Corradini D., Pasqua M., Ceccato M., Orso A., Sinha S. and Tzoref-Brill R.*
+
+<a href="pdfs/ISSTA23.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i></a> &nbsp; PDF file &nbsp; &nbsp; &nbsp; <a href="bibs/ISSTA23.bib"><i class="fas fa-quote-right"></i></a> &nbsp; $\TeX$ ref
+
+In: *Proceedings of the 32<sup>nd</sup> ACM International Symposium on Software Testing and Analysis* (pp. 1--12), ACM, 2023 (*to appear*)
+
+<i class="fas fa-tags"></i> &nbsp; `REST API` &middot; `NLP` &middot; `OpenAPI specification` &middot; `Automated software testing`
+
+---
+
 > **Automated Black-box Testing of Mass Assignment Vulnerabilities in RESTful APIs** <br> *Corradini D., Pasqua M. and Ceccato M.*
 
 <a href="pdfs/ICSE23.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i></a> &nbsp; PDF file &nbsp; &nbsp; &nbsp; <a href="bibs/ICSE23.bib"><i class="fas fa-quote-right"></i></a> &nbsp; $\TeX$ ref

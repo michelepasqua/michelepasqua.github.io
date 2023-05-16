@@ -9,6 +9,9 @@
 
 <br>
 
+<i class="fas fa-chalkboard-teacher"></i> &nbsp; **CSV 2023** <br>
+**Invited Speaker** <br> 2<sup>nd</sup> Symposium on Challenges of Software Verification
+
 <i class="fas fa-user-edit"></i> &nbsp; **ICSE 2024** <br>
 **Program Committee Member** -- *Demonstrations Track* <br> 46<sup>th</sup> IEEE/ACM International Conference on Software Engineering
 
