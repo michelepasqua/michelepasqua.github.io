@@ -16,7 +16,7 @@
 
 ---
 
-> **Enhancing REST API Testing with NLP Techniques** <br> *Kim M., Corradini D., Pasqua M., Ceccato M., Orso A., Sinha S. and Tzoref-Brill R.*
+> **Enhancing REST API Testing with NLP Techniques** <br> *Kim M., Corradini D., Sinha S., Orso A., Pasqua M., Tzoref-Brill R. and Ceccato M.*
 
 <a href="pdfs/ISSTA23.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i></a> &nbsp; PDF file &nbsp; &nbsp; &nbsp; <a href="bibs/ISSTA23.bib"><i class="fas fa-quote-right"></i></a> &nbsp; $\TeX$ ref
 
