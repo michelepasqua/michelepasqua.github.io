@@ -10,6 +10,9 @@
 
 <br>
 
+<i class="fas fa-chalkboard-teacher"></i> &nbsp; **SAS 2023** <br>
+**Speaker** <br> 30<sup>th</sup> Static Analysis Symposium
+
 <i class="fas fa-chalkboard-teacher"></i> &nbsp; **CSV 2023** <br>
 **Invited Speaker** <br> 2<sup>nd</sup> Symposium on Challenges of Software Verification
 

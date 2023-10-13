@@ -1,0 +1,19 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tools - Categoria - Michele Pasqua&#39;s Web Site</title>
+        <link>https://michelepasqua.github.io/it/categories/tools/</link>
+        <description>Tools - Categoria - Michele Pasqua&#39;s Web Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>it</language><managingEditor>michele.pasqua@univr.it (Michele Pasqua)</managingEditor>
+            <webMaster>michele.pasqua@univr.it (Michele Pasqua)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://michelepasqua.github.io/it/categories/tools/" rel="self" type="application/rss+xml" /><item>
+    <title>Tools</title>
+    <link>https://michelepasqua.github.io/it/tools/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Autore</author>
+    <guid>https://michelepasqua.github.io/it/tools/</guid>
+    <description><![CDATA[Tools In questa pagina sono riportati alcuni dei tool attivi e pubblici in cui sono coinvolto.
+
+ AbU-lang: un linguaggio di programmazione distribuito e decenralizato per applicazioni IoT, basato su regole ECA e comunicazione per attributi. Il linguaggio è sviluppato in collaborazione con il gruppo MADS dell&rsquo;Università di Udine.
+ ECA rules · Distributed systems · Formal methods · Edge computing · IoT programming
+Maggiori dettagli, ed i tool disponibili (come compilatori e simulatori), possono essere reperiti alla pagina GitHub del linguaggio:   RestTestGen: un framework per il testing automatizzato e black-box di RESTful APIs, sviluppato dal gruppo SEUnivr dell&rsquo;Università di Verona.]]></description>
+</item></channel>
+</rss>

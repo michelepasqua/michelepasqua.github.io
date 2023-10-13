@@ -74,6 +74,15 @@
                     hreflang="it"
                     href="https://michelepasqua.github.io/it/news/"
                     /></url><url>
+            <loc>https://michelepasqua.github.io/it/tools/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://michelepasqua.github.io/tools/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="it"
+                    href="https://michelepasqua.github.io/it/tools/"
+                    /></url><url>
             <loc>https://michelepasqua.github.io/it/tags/bsc/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -96,6 +105,7 @@
             <loc>https://michelepasqua.github.io/it/categories/contatti/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://michelepasqua.github.io/it/tags/corsi/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://michelepasqua.github.io/it/tags/eventi/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://michelepasqua.github.io/it/tags/implementazioni/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://michelepasqua.github.io/it/tags/indirizzo/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://michelepasqua.github.io/it/tags/insegnamenti/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://michelepasqua.github.io/it/categories/insegnamenti/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
@@ -173,4 +183,22 @@
                     rel="alternate"
                     hreflang="it"
                     href="https://michelepasqua.github.io/it/tags/"
+                    /></url><url>
+            <loc>https://michelepasqua.github.io/it/tags/tools/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://michelepasqua.github.io/tags/tools/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="it"
+                    href="https://michelepasqua.github.io/it/tags/tools/"
+                    /></url><url>
+            <loc>https://michelepasqua.github.io/it/categories/tools/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://michelepasqua.github.io/categories/tools/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="it"
+                    href="https://michelepasqua.github.io/it/categories/tools/"
                     /></url></urlset>

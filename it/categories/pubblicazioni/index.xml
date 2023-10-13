@@ -10,9 +10,10 @@
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Autore</author>
     <guid>https://michelepasqua.github.io/it/publications/</guid>
-    <description><![CDATA[&nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;   Lavori Selezionati   Enhancing REST API Testing with NLP Techniques Kim M., Corradini D., Sinha S., Orso A., Pasqua M., Tzoref-Brill R. and Ceccato M.
+    <description><![CDATA[&nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;   Lavori Selezionati   Domain Precision in Galois Connection-less Abstract Interpretation Mastroeni I. and Pasqua M.
   PDF file  $\TeX$ ref
-In: Proceedings of the 32nd ACM International Symposium on Software Testing and Analysis (pp. 1&ndash;12), ACM, 2023 (to appear)
- REST API · NLP · OpenAPI specification · Automated software testing]]></description>
+In: Proceedings of the 30th Static Analysis International Symposium (pp. 1&ndash;25), Springer International Publishing, 2023 (to appear)
+ Abstract interpretation · Completeness · Static program analysis
+  Enhancing REST API Testing with NLP Techniques Kim M.]]></description>
 </item></channel>
 </rss>
