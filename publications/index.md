@@ -16,11 +16,21 @@
 
 ---
 
+> **Hypertesting of Programs: Theoretical Foundation and Automated Test Generation** <br> *Pasqua M., Ceccato M. and Tonella P.*
+
+<a href="pdfs/ICSE24.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i></a> &nbsp; PDF file &nbsp; &nbsp; &nbsp; <a href="bibs/ICSE24.bib"><i class="fas fa-quote-right"></i></a> &nbsp; $\TeX$ ref
+
+In: *Proceedings of the 46<sup>th</sup> IEEE/ACM International Conference on Software Engineering* (pp. 1--11), ACM, 2024 (*to appear*)
+
+<i class="fas fa-tags"></i> &nbsp; `Hyperproperties` &middot; `Security testing` &middot; `Information flows` &middot; `Automated software testing`
+
+---
+
 > **Domain Precision in Galois Connection-less Abstract Interpretation** <br> *Mastroeni I. and Pasqua M.*
 
 <a href="pdfs/SAS23.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i></a> &nbsp; PDF file &nbsp; &nbsp; &nbsp; <a href="bibs/SAS23.bib"><i class="fas fa-quote-right"></i></a> &nbsp; $\TeX$ ref
 
-In: *Proceedings of the 30<sup>th</sup> Static Analysis International Symposium* (pp. 1--25), Springer International Publishing, 2023 (*to appear*)
+In: *Proceedings of the 30<sup>th</sup> Static Analysis International Symposium* (pp. 434--459), Springer Nature Switzerland, 2023, DOI: [10.1007/978-3-031-44245-2_19](https://doi.org/10.1007/978-3-031-44245-2_19)
 
 <i class="fas fa-tags"></i> &nbsp; `Abstract interpretation` &middot; `Completeness` &middot; `Static program analysis`
 
@@ -90,7 +100,7 @@ In: *Proceedings of the 18<sup>th</sup> International Colloquium on Theoretical 
 
 <a href="pdfs/TOPS21.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i></a> &nbsp; PDF file &nbsp; &nbsp; &nbsp; <a href="bibs/TOPS21.bib"><i class="fas fa-quote-right"></i></a> &nbsp; $\TeX$ ref
 
-In: *ACM Transactions on Privacy and Security* (pp. 1--40), Association for Computing Machinery, 2021, DOI: [10.1145/3444963](https://doi.org/10.1145/3444963)
+In: *ACM Transactions on Privacy and Security* (pp. 1--40), ACM, 2021, DOI: [10.1145/3444963](https://doi.org/10.1145/3444963)
 
 <i class="fas fa-tags"></i> &nbsp; `Cloud-based IoT platform` &middot; `IoT application security` &middot; `Cross-app interference`
 
@@ -100,7 +110,7 @@ In: *ACM Transactions on Privacy and Security* (pp. 1--40), Association for Comp
 
 <a href="pdfs/SAC19.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i></a> &nbsp; PDF file &nbsp; &nbsp; &nbsp; <a href="bibs/SAC19.bib"><i class="fas fa-quote-right"></i></a> &nbsp; $\TeX$ ref
 
-In: *Proceedings of the 34<sup>th</sup> SIGAPP Symposium On Applied Computing* (pp. 2215--2223), Association for Computing Machinery, 2019, DOI: [10.1145/3297280.3297498](https://doi.org/10.1145/3297280.3297498)
+In: *Proceedings of the 34<sup>th</sup> SIGAPP Symposium On Applied Computing* (pp. 2215--2223), ACM, 2019, DOI: [10.1145/3297280.3297498](https://doi.org/10.1145/3297280.3297498)
 
 <i class="fas fa-tags"></i> &nbsp; `Static analysis` &middot; `Abstract interpretation` &middot; `Hyperproperties` &middot; `Non-interference`
 

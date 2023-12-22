@@ -10,6 +10,15 @@
 
 <br>
 
+<i class="fas fa-user-edit"></i> &nbsp; **ECAI 2024** <br>
+**Program Committee Member** <br> 27<sup>th</sup> European Conference on Artificial Intelligence
+
+<i class="fas fa-chalkboard-teacher"></i> &nbsp; **ICSE 2024** <br>
+**Speaker** -- *Research Track* <br> 46<sup>th</sup> IEEE/ACM International Conference on Software Engineering
+
+<i class="fas fa-user-edit"></i> &nbsp; **ASE 2024** <br>
+**Program Committee Member** -- *Research Track* <br> 39<sup>th</sup> IEEE/ACM International Conference on Automated Software Engineering
+
 <i class="fas fa-chalkboard-teacher"></i> &nbsp; **SAS 2023** <br>
 **Speaker** <br> 30<sup>th</sup> Static Analysis Symposium
 

@@ -5,7 +5,7 @@
 
 ---
 
-### Assistant Professor (non-tenured)
+### Assistant Professor
 
 <i class="fas fa-calendar-check"></i> Jan 1, 2022 - Ongoing
 
@@ -63,5 +63,4 @@ Prof. [Massimo Merro](http://profs.scienze.univr.it/~merro/) (University of Vero
 <i class="fas fa-tags"></i> &nbsp; `IoT apps` &middot; `Security type system` &middot; `Cross-app interactions` &middot; `Formal methods`
 
 <br><br>
-
 
