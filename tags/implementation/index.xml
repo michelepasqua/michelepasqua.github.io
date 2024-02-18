@@ -11,9 +11,8 @@
     <author>Author</author>
     <guid>https://michelepasqua.github.io/tools/</guid>
     <description><![CDATA[Tools In this page you can find some of the active and public tools I am involved in.
-
- AbU-lang: a programming language for distributed and decentralized IoT applications, based on ECA rules and attribute-based interaction. The language is developed in collaboration with the MADS team at the University of Udine.
- ECA rules · Distributed systems · Formal methods · Edge computing · IoT programming
-More details, and the tools available (like compilers and simulators), can be found at the language GitHub page:   RestTestGen: a framework for automated black-box testing of RESTful APIs, developed by the SEUnivr team at the University of Verona.]]></description>
+AbU-lang: a programming language for distributed and decentralized IoT applications, based on ECA rules and attribute-based interaction. The language is developed in collaboration with the MADS team at the University of Udine.
+ECA rules · Distributed systems · Formal methods · Edge computing · IoT programming
+More details, and the tools available (like compilers and simulators), can be found at the language GitHub page: RestTestGen: a framework for automated black-box testing of RESTful APIs, developed by the SEUnivr team at the University of Verona.]]></description>
 </item></channel>
 </rss>

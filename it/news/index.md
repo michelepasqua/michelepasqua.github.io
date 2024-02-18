@@ -2,11 +2,14 @@
 
 
 <br>
-<p align=center>(aggiornato al: 21 Dicembre 2023)</p>
+<p align=center>(aggiornato al: 18 Febbraio 2024)</p>
 
 ---
 
 ## News
+
+<i class="fas fa-user-edit"></i> &nbsp; **SAS 2024** <br>
+**Program Committee Member** <br> 31<sup>st</sup> Static Analysis Symposium
 
 <i class="fas fa-user-edit"></i> &nbsp; **ECAI 2024** <br>
 **Program Committee Member** <br> 27<sup>th</sup> European Conference on Artificial Intelligence

@@ -1,0 +1,64 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Categoria - Michele Pasqua&#39;s Web Site</title>
+        <link>https://michelepasqua.github.io/it/categories/</link>
+        <description>Categories - Categoria - Michele Pasqua&#39;s Web Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>it</language><managingEditor>michele.pasqua@univr.it (Michele Pasqua)</managingEditor>
+            <webMaster>michele.pasqua@univr.it (Michele Pasqua)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://michelepasqua.github.io/it/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Contatti</title>
+    <link>https://michelepasqua.github.io/it/categories/contatti/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Autore</author>
+    <guid>https://michelepasqua.github.io/it/categories/contatti/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Insegnamenti</title>
+    <link>https://michelepasqua.github.io/it/categories/insegnamenti/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Autore</author>
+    <guid>https://michelepasqua.github.io/it/categories/insegnamenti/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Istruzione</title>
+    <link>https://michelepasqua.github.io/it/categories/istruzione/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Autore</author>
+    <guid>https://michelepasqua.github.io/it/categories/istruzione/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Lavoro</title>
+    <link>https://michelepasqua.github.io/it/categories/lavoro/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Autore</author>
+    <guid>https://michelepasqua.github.io/it/categories/lavoro/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>News</title>
+    <link>https://michelepasqua.github.io/it/categories/news/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Autore</author>
+    <guid>https://michelepasqua.github.io/it/categories/news/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Pubblicazioni</title>
+    <link>https://michelepasqua.github.io/it/categories/pubblicazioni/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Autore</author>
+    <guid>https://michelepasqua.github.io/it/categories/pubblicazioni/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Ricerca</title>
+    <link>https://michelepasqua.github.io/it/categories/ricerca/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Autore</author>
+    <guid>https://michelepasqua.github.io/it/categories/ricerca/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Tools</title>
+    <link>https://michelepasqua.github.io/it/categories/tools/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Autore</author>
+    <guid>https://michelepasqua.github.io/it/categories/tools/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>

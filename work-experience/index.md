@@ -11,7 +11,7 @@
 
 <i class="fas fa-map-marker-alt"></i> University of Verona, Italy -- *Dept. of Computer Science*
 
-<i class="fas fa-id-badge"></i> INF/01 (Computer Science)
+<i class="fas fa-id-badge"></i> INF/01 (Informatics)
 
 <br>
 
@@ -28,7 +28,7 @@
 <q>Automatic black-box testing of RESTful API</q>
 
 *Supervisor* <br>
-Dr. [Mariano Ceccato](https://profs.scienze.univr.it/~ceccato/) (University of Verona, Italy)
+Prof. [Mariano Ceccato](https://profs.scienze.univr.it/~ceccato/) (University of Verona, Italy)
 
 <i class="fas fa-tags"></i> &nbsp; `REST APIs` &middot; `Back-box testing` &middot; `Blockchain` &middot; `Static analysis` &middot; `Smart-contracts`
 

@@ -10,6 +10,9 @@
 
 <br>
 
+<i class="fas fa-user-edit"></i> &nbsp; **SAS 2024** <br>
+**Program Committee Member** <br> 31<sup>st</sup> Static Analysis Symposium
+
 <i class="fas fa-user-edit"></i> &nbsp; **ECAI 2024** <br>
 **Program Committee Member** <br> 27<sup>th</sup> European Conference on Artificial Intelligence
 
