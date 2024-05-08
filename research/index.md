@@ -3,7 +3,7 @@
 
 ## Interests
 
-My main research interests are in the field of **formal methods** for security and programming languages; with particular attention to program verification and semantics, code protection, malware detection, compilation, distributed systems and functional testing.
+My main research interests are in the fields of **software engineering** and **formal methods** for programming languages; with particular attention to functional and security testing, program verification and semantics, language-based security, distributed systems design, code protection and malware detection.
 
 <img src="" id="kwimg">
 

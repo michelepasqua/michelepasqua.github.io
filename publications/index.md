@@ -16,6 +16,16 @@
 
 ---
 
+> **Behavioral Equivalences for AbU: Verifying Security and Safety in Distributed IoT Systems** <br> *Pasqua M. and Miculan M.*
+
+<a href="pdfs/TCS24.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i></a> &nbsp; PDF file &nbsp; &nbsp; &nbsp; <a href="bibs/TCS24.bib"><i class="fas fa-quote-right"></i></a> &nbsp; $\TeX$ ref
+
+In: *Theoretical Computer Science* (pp. 1--23), Elsevier, 2024, DOI: [10.1016/j.tcs.2024.114537](https://doi.org/10.1016/j.tcs.2024.114537)
+
+<i class="fas fa-tags"></i> &nbsp; `ECA rules` &middot; `Distributed systems` &middot; `Bisimulations` &middot; `Edge computing` &middot; `IoT Security`
+
+---
+
 > **Hypertesting of Programs: Theoretical Foundation and Automated Test Generation** <br> *Pasqua M., Ceccato M. and Tonella P.*
 
 <a href="pdfs/ICSE24.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i></a> &nbsp; PDF file &nbsp; &nbsp; &nbsp; <a href="bibs/ICSE24.bib"><i class="fas fa-quote-right"></i></a> &nbsp; $\TeX$ ref
@@ -60,7 +70,7 @@ In: *Proceedings of the 45<sup>th</sup> IEEE/ACM International Conference on Sof
 
 <a href="pdfs/TCS23.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i></a> &nbsp; PDF file &nbsp; &nbsp; &nbsp; <a href="bibs/TCS23.bib"><i class="fas fa-quote-right"></i></a> &nbsp; $\TeX$ ref
 
-In: *Theoretical Computer Science* (pp. 1--40), Elsevier, 2023, DOI: [10.1016/j.tcs.2023.113841](https://doi.org/10.1016/j.tcs.2023.113841)
+In: *Theoretical Computer Science* (pp. 1--32), Elsevier, 2023, DOI: [10.1016/j.tcs.2023.113841](https://doi.org/10.1016/j.tcs.2023.113841)
 
 <i class="fas fa-tags"></i> &nbsp; `ECA rules` &middot; `Distributed systems` &middot; `Formal methods` &middot; `Edge computing` &middot; `IoT programming`
 

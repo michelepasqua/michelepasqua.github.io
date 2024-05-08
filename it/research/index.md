@@ -3,7 +3,7 @@
 
 ## Interessi
 
-I miei interessi di ricerca si concentrano nei **metodi formali** per la sicurezza e i linguaggi di programmazione; con particolare attenzione alla verifica di programmi, alla protezione del codice, alla rilevazione di malware, alla compilazione, ai sistemi distribuiti ed al testing funzionale.
+I miei interessi di ricerca si concentrano principalmente su **ingegneria del software** e **metodi formali** per i linguaggi di programmazione; con particolare attenzione al al testing funzionale e di sicurezza, alla verifica e semantica di programmi, alla sicurezza basata su linguaggi, alla progettazione di sistemi distribuiti, alla protezione del codice ed alla rilevazione di malware.
 
 <img src="" id="kwimg">
 

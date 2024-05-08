@@ -10,11 +10,11 @@
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
     <guid>https://michelepasqua.github.io/publications/</guid>
-    <description><![CDATA[&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Selected Works Hypertesting of Programs: Theoretical Foundation and Automated Test Generation Pasqua M., Ceccato M. and Tonella P.
+    <description><![CDATA[&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Selected Works Behavioral Equivalences for AbU: Verifying Security and Safety in Distributed IoT Systems Pasqua M. and Miculan M.
 PDF file $\TeX$ ref
-In: Proceedings of the 46th IEEE/ACM International Conference on Software Engineering (pp. 1&ndash;11), ACM, 2024 (to appear)
-Hyperproperties · Security testing · Information flows · Automated software testing
-Domain Precision in Galois Connection-less Abstract Interpretation Mastroeni I. and Pasqua M.
+In: Theoretical Computer Science (pp. 1&ndash;23), Elsevier, 2024, DOI: 10.1016/j.tcs.2024.114537
+ECA rules · Distributed systems · Bisimulations · Edge computing · IoT Security
+Hypertesting of Programs: Theoretical Foundation and Automated Test Generation Pasqua M., Ceccato M. and Tonella P.
 PDF file $\TeX$ ref]]></description>
 </item></channel>
 </rss>
