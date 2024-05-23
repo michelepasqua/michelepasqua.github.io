@@ -16,7 +16,7 @@
 <i class="fas fa-user-cog"></i> &nbsp; **ICST 2025** <br>
 **Publicity Co-Chair** <br> 18<sup>th</sup> IEEE International Conference on Software Testing, Verification and Validation
 
-<i class="fas fa-chalkboard-teacher"></i> &nbsp; **SecTestVerif 2024** <br>
+<i class="fas fa-chalkboard-teacher"></i> &nbsp; **ST&V Summer School 2024** <br>
 **Invited Speaker** <br> 3<sup>rd</sup> Summer School on Security Testing and Verification
 
 <i class="fas fa-user-edit"></i> &nbsp; **SCAM 2024** <br>
