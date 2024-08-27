@@ -11,7 +11,7 @@ My main research interests are in the fields of **software engineering** and **f
 
 ## Projects
 
-<center> (last update: September 30, 2023) </center>
+<center> (last update: August 20, 2024) </center>
 
 <br>
 

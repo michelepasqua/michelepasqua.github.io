@@ -10,11 +10,10 @@
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
     <guid>https://michelepasqua.github.io/publications/</guid>
-    <description><![CDATA[&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Selected Works Behavioral Equivalences for AbU: Verifying Security and Safety in Distributed IoT Systems Pasqua M. and Miculan M.
+    <description><![CDATA[&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Selected Works DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning Corradini D., Montolli Z., Pasqua M., and Ceccato M.
 PDF file $\TeX$ ref
-In: Theoretical Computer Science (pp. 1&ndash;23), Elsevier, 2024, DOI: 10.1016/j.tcs.2024.114537
-ECA rules · Distributed systems · Bisimulations · Edge computing · IoT Security
-Hypertesting of Programs: Theoretical Foundation and Automated Test Generation Pasqua M., Ceccato M. and Tonella P.
-PDF file $\TeX$ ref]]></description>
+In: Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering (pp. 1&ndash;13), ACM, 2024 (to appear)
+REST API · Deep Reinforcement Learning · Automated software testing · OpenAPI
+Behavioral Equivalences for AbU: Verifying Security and Safety in Distributed IoT Systems Pasqua M.]]></description>
 </item></channel>
 </rss>

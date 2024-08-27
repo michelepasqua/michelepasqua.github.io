@@ -16,6 +16,16 @@
 
 ---
 
+> **DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning** <br> *Corradini D., Montolli Z., Pasqua M., and Ceccato M.*
+
+<a href="pdfs/ASE24.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i></a> &nbsp; PDF file &nbsp; &nbsp; &nbsp; <a href="bibs/ASE24.bib"><i class="fas fa-quote-right"></i></a> &nbsp; $\TeX$ ref
+
+In: *Proceedings of the 39<sup>th</sup> IEEE/ACM  International Conference on Automated Software Engineering* (pp. 1--13), ACM, 2024 (*to appear*)
+
+<i class="fas fa-tags"></i> &nbsp; `REST API` &middot; `Deep Reinforcement Learning` &middot; `Automated software testing` &middot; `OpenAPI`
+
+---
+
 > **Behavioral Equivalences for AbU: Verifying Security and Safety in Distributed IoT Systems** <br> *Pasqua M. and Miculan M.*
 
 <a href="pdfs/TCS24.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i></a> &nbsp; PDF file &nbsp; &nbsp; &nbsp; <a href="bibs/TCS24.bib"><i class="fas fa-quote-right"></i></a> &nbsp; $\TeX$ ref
@@ -30,7 +40,7 @@ In: *Theoretical Computer Science* (pp. 1--23), Elsevier, 2024, DOI: [10.1016/j.
 
 <a href="pdfs/ICSE24.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i></a> &nbsp; PDF file &nbsp; &nbsp; &nbsp; <a href="bibs/ICSE24.bib"><i class="fas fa-quote-right"></i></a> &nbsp; $\TeX$ ref
 
-In: *Proceedings of the 46<sup>th</sup> IEEE/ACM International Conference on Software Engineering* (pp. 1--11), ACM, 2024 (*to appear*)
+In: *Proceedings of the 46<sup>th</sup> IEEE/ACM International Conference on Software Engineering* (pp. 1409--1420), ACM, 2024 DOI: [10.1145/3597503.3640323](https://doi.org/10.1145/3597503.3640323)
 
 <i class="fas fa-tags"></i> &nbsp; `Hyperproperties` &middot; `Security testing` &middot; `Information flows` &middot; `Automated software testing`
 

@@ -2,7 +2,7 @@
 
 
 <br>
-<p align=center>(aggiornato al: 7 Maggio 2024)</p>
+<p align=center>(aggiornato al: 20 Agosto 2024)</p>
 
 <br>
 
@@ -23,7 +23,7 @@
 **Program Committee Member** -- *Research Track*; *New Ideas and Emerging Results Track* <br> 24<sup>th</sup> IEEE International Working Conference on Source Code Analysis and Manipulation
 
 <i class="fas fa-users-cog"></i> &nbsp; **NSAD 2024** <br>
-**Program Co-Chair** <br> 10<sup>th</sup> International Workshop on Numerical and Symbolic Abstract Domains
+**Program Co-Chair** <br> 10<sup>th</sup> ACM SIGPLAN International Workshop on Numerical and Symbolic Abstract Domains
 
 <i class="fas fa-users-cog"></i> &nbsp; **Lipari AbsInt 2024** <br>
 **Organizer** <br> Lipari Summer School on Abstract Interpretation

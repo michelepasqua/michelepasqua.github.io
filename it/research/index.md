@@ -11,7 +11,7 @@ I miei interessi di ricerca si concentrano principalmente su **ingegneria del so
 
 ## Progetti
 
-<center> (aggiornato al: 30 Settembre 2023) </center>
+<center> (aggiornato al: 20 Agosto 2024) </center>
 
 <br>
 
