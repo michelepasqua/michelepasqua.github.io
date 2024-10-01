@@ -10,11 +10,27 @@
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Autore</author>
     <guid>https://michelepasqua.github.io/it/contact/</guid>
-    <description><![CDATA[
-Luogo di lavoro Dipartimento di Informatica Università di Verona
-Strada le Graze, 15 &ndash; 37134 &ndash; Verona, Italy 45.403920423962454, 10.999032772852312
-Ufficio Cà Vignal 2, Piano 2, Stanza 24 (+39) 045 8027803
-Lab Cà Vignal 2, Piano -2, Stanza S139 @ Laboratorio SPY
-Indirizzo email istituzionale: michele.pasqua@univr.it Pagina web istituzionale: https://www.di.univr.it/?ent=persona&amp;id=32345&amp;lang=it ]]></description>
+    <description><![CDATA[<br>
+<!--
+## Luogo di lavoro temporaneo
+
+Attualmente mi trovo presso l'**USI** di Lugano (CH) per un periodo di ricerca
+
+> **Software Institute** <br> Universit&agrave; della Svizzera Italiana
+
+<i class="fas fa-location-arrow"></i> &nbsp; Via la Santa, 1 -- 6962 -- Lugano, Switzerland &nbsp; &nbsp; &nbsp;
+<i class="fas fa-map-marker-alt"></i> &nbsp; [46.0116221722027, 8.960739446028297](https://g.page/usisoftware?share)
+
+### Ufficio
+
+<i class="fas fa-briefcase"></i> &nbsp; Campus Est, Settore D, Ufficio D3.03 (Livello 3)
+-->
+<br>
+<h2 id="luogo-di-lavoro">Luogo di lavoro</h2>
+<blockquote>
+<p><strong>Dipartimento di Informatica</strong> <br> Università di Verona</p>
+</blockquote>
+<p><i class="fas fa-location-arrow"></i>   Strada le Graze, 15 &ndash; 37134 &ndash; Verona, Italy      
+<i class="fas fa-map-marker-alt"></i>   <a href="https://goo.gl/maps/Go97fxpH1DU3ePQF8" target="_blank" rel="noopener noreffer">45.403920423962454, 10.999032772852312</a></p>]]></description>
 </item></channel>
 </rss>

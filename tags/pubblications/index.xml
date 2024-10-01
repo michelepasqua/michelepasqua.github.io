@@ -10,10 +10,21 @@
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
     <guid>https://michelepasqua.github.io/publications/</guid>
-    <description><![CDATA[&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Selected Works DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning Corradini D., Montolli Z., Pasqua M., and Ceccato M.
-PDF file $\TeX$ ref
-In: Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering (pp. 1&ndash;13), ACM, 2024 (to appear)
-REST API · Deep Reinforcement Learning · Automated software testing · OpenAPI
-Behavioral Equivalences for AbU: Verifying Security and Safety in Distributed IoT Systems Pasqua M.]]></description>
+    <description><![CDATA[<br>
+<center>
+    <a href="https://orcid.org/0000-0002-9475-4836" target="_blank" rel="noopener noreferrer"></a> &nbsp; &nbsp;
+    <a href="https://dblp.org/pid/197/7261.html" target="_blank" rel="noopener noreferrer"></a> &nbsp; &nbsp;
+    <a href="https://scholar.google.com/citations?user=3Rdr8qkAAAAJ" target="_blank" rel="noopener noreferrer"></a> &nbsp; &nbsp;
+    <a href="https://www.researchgate.net/profile/Michele-Pasqua-3" target="_blank" rel="noopener noreferrer"></a>
+</center>
+<br>
+<h2 id="selected-works">Selected Works</h2>
+<hr>
+<blockquote>
+<p><strong>DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning</strong> <br> <em>Corradini D., Montolli Z., Pasqua M., and Ceccato M.</em></p>
+</blockquote>
+<p><a href="pdfs/ASE24.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i></a>   PDF file       <a href="bibs/ASE24.bib"><i class="fas fa-quote-right"></i></a>   $\TeX$ ref</p>
+<p>In: <em>Proceedings of the 39<sup>th</sup> IEEE/ACM  International Conference on Automated Software Engineering</em> (pp. 1&ndash;13), ACM, 2024 (<em>to appear</em>)</p>
+<p><i class="fas fa-tags"></i>   <code>REST API</code> · <code>Deep Reinforcement Learning</code> · <code>Automated software testing</code> · <code>OpenAPI</code></p>]]></description>
 </item></channel>
 </rss>

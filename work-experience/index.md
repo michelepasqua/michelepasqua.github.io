@@ -5,19 +5,29 @@
 
 ---
 
-### Assistant Professor
+### Tenure-Track Assistant Professor
 
-<i class="fas fa-calendar-check"></i> Jan 1, 2022 - Ongoing
+<i class="fas fa-calendar-check"></i> Oct 1, 2024 - Ongoing
 
 <i class="fas fa-map-marker-alt"></i> University of Verona, Italy -- *Dept. of Computer Science*
 
-<i class="fas fa-id-badge"></i> INF/01 (Informatics)
+<i class="fas fa-id-badge"></i> INFO-01/A (Computer Science)
 
 <br>
 
 ## Past Positions
 
 ---
+
+### Assistant Professor
+
+<i class="fas fa-calendar-check"></i> Jan 1, 2022 - Sep 30, 2024
+
+<i class="fas fa-map-marker-alt"></i> University of Verona, Italy -- *Dept. of Computer Science*
+
+<i class="fas fa-id-badge"></i> INF/01 (Computer Science)
+
+<br>
 
 ### Postdoctoral Research Assistant
 

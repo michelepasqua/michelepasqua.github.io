@@ -10,13 +10,20 @@
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
     <guid>https://michelepasqua.github.io/teaching/</guid>
-    <description><![CDATA[Courses University of Verona Informatics and multimedia production :: from 2021/2022 to 2023/2024 Master&rsquo;s degree in Publishing and Journalism Theory module
-Lecturer (theory) - Course coordinator
-12 CFU &ndash; INF/01
-Cyber-security for IoT :: 2023/2024 Master&rsquo;s degree in Computer Engineering for Robotics and Smart Industry Laboratory module
-Instructor (lab)
-6 CFU &ndash; INF/01
-Other activities CyberChallenge.IT :: from 2020 to 2023 Italian training program in cybersecurity Team Verona
-Lecturer (theory) and Instructor (lab)]]></description>
+    <description><![CDATA[<h2 id="courses">Courses</h2>
+<hr>
+<h3 id="university-of-verona">University of Verona</h3>
+<blockquote>
+<p><strong>Principles and Applications of Abstract Interpretation :: 2024/2025</strong>   <a href="https://www.corsi.univr.it/?ent=cs&aa=2024%2F2025&codiceCs=DR-I226&codins=DT000704&discr=&discrCd=&id=635&menu=studiare&tab=insegnamenti" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></a> <br> PhD Programme in Computer Science</p>
+</blockquote>
+<p><i class="fas fa-pencil-ruler"></i>   Lecturer - Course coordinator</p>
+<p><i class="fas fa-info-circle"></i>   3 CFU &ndash; INFO-01/A (Computer Science)</p>
+<blockquote>
+<p><strong>Informatics and multimedia production :: from 2021/2022 to 2023/2024</strong>   <a href="https://www.corsi.univr.it/?ent=cs&aa=2023%2F2024&codiceCs=N75&codins=14228&discr=&discrCd=&id=368&menu=Studiare&tab=Insegnamenti" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></a> <br> Master&rsquo;s degree in Publishing and Journalism <br> <em>Theory module</em></p>
+</blockquote>
+<p><i class="fas fa-pencil-ruler"></i>   Lecturer (theory) - Course coordinator</p>
+<p><i class="fas fa-info-circle"></i>   12 CFU &ndash; INF/01 (Computer Science)</p>
+<blockquote>
+<p><strong>Cyber-security for IoT :: 2023/2024</strong>   <a href="https://www.corsi.univr.it/?ent=cs&aa=2023%2F2024&codiceCs=S81&codins=4S009025&discr=&discrCd=&id=954&menu=Studiare&tab=Insegnamenti" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i></a> <br> Master&rsquo;s degree in Computer Engineering for Robotics and Smart Industry <br> <em>Laboratory module</em></p>]]></description>
 </item></channel>
 </rss>

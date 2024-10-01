@@ -5,19 +5,29 @@
 
 ---
 
+### Ricercatore a tempo determinato in tenure track (RTT)
+
+<i class="fas fa-calendar-check"></i> 1 Ott 2024 - Presente
+
+<i class="fas fa-map-marker-alt"></i> Università di Verona, Italia -- *Dip. di Informatica*
+
+<i class="fas fa-id-badge"></i> INFO-01/A (Informatica)
+
+<br>
+
+## Posizioni Precedenti
+
+---
+
 ### Ricercatore a tempo determinato (tipo A)
 
-<i class="fas fa-calendar-check"></i> 1 Gen 2021 - Presente
+<i class="fas fa-calendar-check"></i> 1 Gen 2021 - 30 Set 2024
 
 <i class="fas fa-map-marker-alt"></i> Università di Verona, Italia -- *Dip. di Informatica*
 
 <i class="fas fa-id-badge"></i> INF/01 (Informatica)
 
 <br>
-
-## Past Positions
-
----
 
 ### Assegnista di Ricerca Postdottorato
 

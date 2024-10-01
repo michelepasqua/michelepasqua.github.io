@@ -10,7 +10,14 @@
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
     <guid>https://michelepasqua.github.io/research/</guid>
-    <description><![CDATA[Interests My main research interests are in the fields of software engineering and formal methods for programming languages; with particular attention to functional and security testing, program verification and semantics, language-based security, distributed systems design, code protection and malware detection.
-Projects (last update: August 20, 2024) Smartitude: Automated Testing and Security Assessment of Smart Contracts Funded by Ministry of Education, University and Research - Italy (PRIN Project 2022) Coordinator: Dr. Dario Di Nucci]]></description>
+    <description><![CDATA[<h2 id="interests">Interests</h2>
+<p>My main research interests are in the fields of <strong>software engineering</strong> and <strong>formal methods</strong> for programming languages; with particular attention to functional and security testing, program verification and semantics, language-based security, distributed systems design, code protection and malware detection.</p>
+
+<p><br><br></p>
+<h2 id="projects">Projects</h2>
+<center> (last update: August 20, 2024) </center>
+<br>
+<blockquote>
+<p><strong>Smartitude: Automated Testing and Security Assessment of Smart Contracts</strong> <br> Funded by Ministry of Education, University and Research - Italy (PRIN Project 2022) <br> <em>Coordinator:</em> Dr. Dario Di Nucci</p>]]></description>
 </item></channel>
 </rss>
