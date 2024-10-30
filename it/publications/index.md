@@ -20,7 +20,7 @@
 
 <a href="pdfs/ASE24.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i></a> &nbsp; PDF file &nbsp; &nbsp; &nbsp; <a href="bibs/ASE24.bib"><i class="fas fa-quote-right"></i></a> &nbsp; $\TeX$ ref
 
-In: *Proceedings of the 39<sup>th</sup> IEEE/ACM  International Conference on Automated Software Engineering* (pp. 1--13), ACM, 2024 (*to appear*)
+In: *Proceedings of the 39<sup>th</sup> IEEE/ACM  International Conference on Automated Software Engineering* (pp. 1383--1394), ACM, 2024, DOI: [10.1145/3691620.3695511](https://doi.org/10.1145/3691620.3695511)
 
 <i class="fas fa-tags"></i> &nbsp; `REST API` &middot; `Deep Reinforcement Learning` &middot; `Automated software testing` &middot; `OpenAPI`
 

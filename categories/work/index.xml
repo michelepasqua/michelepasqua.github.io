@@ -3,8 +3,7 @@
         <title>Work - Category - Michele Pasqua&#39;s Web Site</title>
         <link>https://michelepasqua.github.io/categories/work/</link>
         <description>Work - Category - Michele Pasqua&#39;s Web Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>michele.pasqua@univr.it (Michele Pasqua)</managingEditor>
-            <webMaster>michele.pasqua@univr.it (Michele Pasqua)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://michelepasqua.github.io/categories/work/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://michelepasqua.github.io/categories/work/" rel="self" type="application/rss+xml" /><item>
     <title>Work Experience</title>
     <link>https://michelepasqua.github.io/work-experience/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
@@ -23,7 +22,7 @@
 <p><i class="fas fa-calendar-check"></i> Jan 1, 2022 - Sep 30, 2024</p>
 <p><i class="fas fa-map-marker-alt"></i> University of Verona, Italy &ndash; <em>Dept. of Computer Science</em></p>
 <p><i class="fas fa-id-badge"></i> INF/01 (Computer Science)</p>
-<br>
+<hr>
 <h3 id="postdoctoral-research-assistant">Postdoctoral Research Assistant</h3>
 <p><i class="fas fa-calendar-check"></i> Oct 1, 2021 - Dec 31, 2021 (3 months)</p>]]></description>
 </item></channel>

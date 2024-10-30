@@ -27,7 +27,7 @@
 
 <i class="fas fa-id-badge"></i> INF/01 (Computer Science)
 
-<br>
+---
 
 ### Postdoctoral Research Assistant
 

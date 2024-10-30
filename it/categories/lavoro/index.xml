@@ -3,8 +3,7 @@
         <title>Lavoro - Categoria - Michele Pasqua&#39;s Web Site</title>
         <link>https://michelepasqua.github.io/it/categories/lavoro/</link>
         <description>Lavoro - Categoria - Michele Pasqua&#39;s Web Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>it</language><managingEditor>michele.pasqua@univr.it (Michele Pasqua)</managingEditor>
-            <webMaster>michele.pasqua@univr.it (Michele Pasqua)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://michelepasqua.github.io/it/categories/lavoro/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>it</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://michelepasqua.github.io/it/categories/lavoro/" rel="self" type="application/rss+xml" /><item>
     <title>Esperienza Lavorativa</title>
     <link>https://michelepasqua.github.io/it/work-experience/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
@@ -23,7 +22,7 @@
 <p><i class="fas fa-calendar-check"></i> 1 Gen 2021 - 30 Set 2024</p>
 <p><i class="fas fa-map-marker-alt"></i> Università di Verona, Italia &ndash; <em>Dip. di Informatica</em></p>
 <p><i class="fas fa-id-badge"></i> INF/01 (Informatica)</p>
-<br>
+<hr>
 <h3 id="assegnista-di-ricerca-postdottorato">Assegnista di Ricerca Postdottorato</h3>
 <p><i class="fas fa-calendar-check"></i> 1 Ott 2021 - 31 Dic 2021 (3 mesi)</p>]]></description>
 </item></channel>
