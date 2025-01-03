@@ -10,8 +10,11 @@
 
 <br>
 
+<i class="fas fa-user-edit"></i> &nbsp; **ICSME 2025** <br>
+**Program Committee Member** -- *Research Track* <br> 41<sup>th</sup> International Conference on Software Maintenance and Evolution
+
 <i class="fas fa-user-edit"></i> &nbsp; **ISSTA 2025** <br>
-**Program Committee Member** <br> 34<sup>th</sup> ACM International Symposium on Software Testing and Analysis
+**Program Committee Member** -- *Research Track* <br> 34<sup>th</sup> ACM International Symposium on Software Testing and Analysis
 
 <i class="fas fa-user-cog"></i> &nbsp; **ICST 2025** <br>
 **Publicity Co-Chair** <br> 18<sup>th</sup> IEEE International Conference on Software Testing, Verification and Validation
