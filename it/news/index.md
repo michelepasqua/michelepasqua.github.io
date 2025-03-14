@@ -10,6 +10,9 @@
 
 ---
 
+<i class="fas fa-user-edit"></i> &nbsp; **ASE 2025** <br>
+**Program Committee Member** -- *Research Track* <br> 40<sup>th</sup> IEEE/ACM International Conference on Automated Software Engineering
+
 <i class="fas fa-user-edit"></i> &nbsp; **ICSME 2025** <br>
 **Program Committee Member** -- *Research Track* <br> 41<sup>th</sup> International Conference on Software Maintenance and Evolution
 

@@ -20,8 +20,7 @@
 <h2 id="lavori-selezionati">Lavori Selezionati</h2>
 <hr>
 <blockquote>
-<p><strong>DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning</strong> <br> <em>Corradini D., Montolli Z., Pasqua M., and Ceccato M.</em></p>
-</blockquote>
+<p><strong>DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning</strong> <br> <em>Corradini D., Montolli Z., Pasqua M., and Ceccato M.</em></p></blockquote>
 <p><a href="pdfs/ASE24.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i></a>   PDF file       <a href="bibs/ASE24.bib"><i class="fas fa-quote-right"></i></a>   $\TeX$ ref</p>
 <p>In: <em>Proceedings of the 39<sup>th</sup> IEEE/ACM  International Conference on Automated Software Engineering</em> (pp. 1383&ndash;1394), ACM, 2024, DOI: <a href="https://doi.org/10.1145/3691620.3695511" target="_blank" rel="noopener noreffer">10.1145/3691620.3695511</a></p>
 <p><i class="fas fa-tags"></i>   <code>REST API</code> · <code>Deep Reinforcement Learning</code> · <code>Automated software testing</code> · <code>OpenAPI</code></p>]]></description>
